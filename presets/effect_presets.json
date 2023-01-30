@@ -1,0 +1,685 @@
+{
+	"boost" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0.5,
+			"boost_gain" : 0.4,
+			"boost_level" : 0.8,
+			"boost_treble" : 0.6
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"boost_bass" : 0,
+			"boost_gain" : 0,
+			"boost_level" : 0,
+			"boost_treble" : 0
+		}
+
+	}
+,
+	"compressor" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"compressor_comp" : 0,
+			"compressor_level" : 0,
+			"compressor_attack" : 0
+		}
+
+	}
+,
+	"overdrive" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"overdrive_drive" : 0,
+			"overdrive_level" : 0,
+			"overdrive_tone" : 0
+		}
+
+	}
+,
+	"chorus" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"chorus_dry" : 0
+		}
+
+	}
+,
+	"delay" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"delay_mix" : 0,
+			"delay_feedback" : 0,
+			"delay_right" : 0,
+			"delay_amount" : 0,
+			"delay_time" : 0,
+			"delay_tempo" : 0,
+			"delay_left" : 0,
+			"delay_sync" : 0,
+			"delay_mode" : 0,
+			"delay_type" : 0
+		}
+
+	}
+,
+	"reverb" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"reverb_dry" : 0,
+			"reverb_decay" : 0,
+			"reverb_right" : 0,
+			"reverb_left" : 0,
+			"reverb_shimmer" : 0
+		}
+
+	}
+,
+	"ampliroses" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"ampliroses_gain" : 0,
+			"ampliroses_bass" : 0,
+			"ampliroses_middle" : 0,
+			"ampliroses_treble" : 0,
+			"ampliroses_presence" : 0,
+			"ampliroses_blend" : 0,
+			"ampliroses_level" : 0
+		}
+
+	}
+,
+	"amplicherubs" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"amplicherubs_gain" : 0,
+			"amplicherubs_bass" : 0,
+			"amplicherubs_middle" : 0,
+			"amplicherubs_treble" : 0,
+			"amplicherubs_presence" : 0,
+			"amplicherubs_level" : 0
+		}
+
+	}
+,
+	"amplipink" : 	{
+		"preset_1" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_2" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_3" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_4" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_5" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_6" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_7" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+,
+		"preset_8" : 		{
+			"nom" : "< empty >",
+			"amplipink_gain" : 0,
+			"amplipink_bass" : 0,
+			"amplipink_middle" : 0,
+			"amplipink_treble" : 0,
+			"amplipink_presence" : 0,
+			"amplipink_master" : 0,
+			"amplipink_level" : 0
+		}
+
+	}
+
+}
